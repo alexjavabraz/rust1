@@ -1,2 +1,2 @@
 # rust1
-Basic of rust estudies part 1
+Basic of rust part 1
